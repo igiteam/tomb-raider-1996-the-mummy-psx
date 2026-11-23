@@ -19,6 +19,8 @@ A total conversion project that rebuilds the structure of *The Mummy* (PSX) insi
 
 [![call of cthulhu dark corners of the earth](https://img.youtube.com/vi/8qJvbtl4xMk/maxresdefault.jpg)](https://ytembed.macosxjs.com/?OHFKdmJ0bDR4TWs)
 
+[![Call Of Cthulhu Dark Corners Of The Earth - All Weapons](https://img.youtube.com/vi/AAW4vy4gVEA/maxresdefault.jpg)](https://ytembed.macosxjs.com/?QUFXNHZ5NGdWRUE)
+
 ## Reference Links
 [https://archive.org/details/tomb_raider_1996](https://archive.org/details/tomb_raider_1996)
 
@@ -29,6 +31,8 @@ A total conversion project that rebuilds the structure of *The Mummy* (PSX) insi
 [![The Mummy](https://raw.githubusercontent.com/igiteam/tomb-raider-1996-the-mummy-psx/refs/heads/master/the-mummy-psx.png)](https://vimm.net/vault/53937)
 
 [![Tomb Raider 1996](https://raw.githubusercontent.com/igiteam/tomb-raider-1996-the-mummy-psx/refs/heads/master/Tomb_Raider_(1996).png)](https://archive.org/details/tomb_raider_1996)
+
+[![Call of Cthulhu Dark Corners of the Earth](https://raw.githubusercontent.com/igiteam/tomb-raider-1996-the-mummy-psx/refs/heads/master/call-of-cthulhu-dark-corners-of-the-earth.jpg)](https://archive.org/details/call-of-cthulhu-dark-corners-of-the-earth-hd-remastered)
 
 ---
 
