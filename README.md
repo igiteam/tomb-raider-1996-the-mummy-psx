@@ -1,6 +1,6 @@
 # tomb-raider-1996-the-mummy-psx
-## OpenLara - The Mummy PSX Remake
-A total conversion project that rebuilds the structure of *The Mummy* (PSX) inside the rally engine of *Tomb Raider* (1996), built on the open-sourced OpenLara engine source.
+## Tomb Raider 1996 - The Mummy PSX Remake
+A total conversion project that rebuilds the structure of *The Mummy* (PSX) inside the engine of *Tomb Raider* (1996), built on the open-sourced OpenLara engine source. The project also draws influence from *Call of Cthulhu: Dark Corners of the Earth*.
 
 ## Github Treeview
 [https://treegit.macosxjs.com/?url=igiteam/tomb-raider-1996-the-mummy-psx](https://treegit.macosxjs.com/?url=igiteam/tomb-raider-1996-the-mummy-psx)
