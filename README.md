@@ -1,12 +1,12 @@
-# openlara-the-mummy-psx
+# tomb-raider-1996-the-mummy-psx
 ## OpenLara - The Mummy PSX Remake
 A total conversion project that rebuilds the structure of *The Mummy* (PSX) inside the rally engine of *Tomb Raider* (1996), built on the open-sourced OpenLara engine source.
 
 ## Github Treeview
-[https://treegit.macosxjs.com/?url=igiteam/openlara-the-mummy-psx](https://treegit.macosxjs.com/?url=igiteam/openlara-the-mummy-psx)
+[https://treegit.macosxjs.com/?url=igiteam/tomb-raider-1996-the-mummy-psx](https://treegit.macosxjs.com/?url=igiteam/tomb-raider-1996-the-mummy-psx)
 
 ## Github Tree Api Direct JSON
-[https://api.github.com/repos/igiteam/openlara-the-mummy-psx/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/openlara-the-mummy-psx/git/trees/main?recursive=1)
+[https://api.github.com/repos/igiteam/tomb-raider-1996-the-mummy-psx/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/tomb-raider-1996-the-mummy-psx/git/trees/main?recursive=1)
 
 ## Base of the gameplay
 [![Mobil 1 Rally Championship PS1 Gameplay HD](https://img.youtube.com/vi/zB5so_EhTig/maxresdefault.jpg)](https://ytembed.macosxjs.com/?ekI1c29fRWhUaWc)
