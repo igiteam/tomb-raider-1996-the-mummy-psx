@@ -17,6 +17,8 @@ A total conversion project that rebuilds the structure of *The Mummy* (PSX) insi
 
 [![The Mummy](https://img.youtube.com/vi/ClTac-AGnGc/maxresdefault.jpg)](https://ytembed.macosxjs.com/?Q2xUYWMtQUduR2M)
 
+[![call of cthulhu dark corners of the earth](https://img.youtube.com/vi/8qJvbtl4xMk/maxresdefault.jpg)](https://ytembed.macosxjs.com/?OHFKdmJ0bDR4TWs)
+
 ## Reference Links
 [https://archive.org/details/tomb_raider_1996](https://archive.org/details/tomb_raider_1996)
 
