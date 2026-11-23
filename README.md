@@ -13,8 +13,9 @@ A total conversion project that rebuilds the structure of *The Mummy* (PSX) insi
 
 [![The Mummy PSX](https://img.youtube.com/vi/tbAxaf8dzZU/maxresdefault.jpg)](https://ytembed.macosxjs.com/?dGJBeGFmOGR6WlU)
 
-[![The Mummy (2000) Cutscenes](https://img.youtube.com/vi/2Ul6e3MnfOk/maxresdefault.jpg)](https://ytembed.macosxjs.com/?MlVsNmUzTW5mT2s)
+[![The Mummy 2000 Cutscenes](https://i.ytimg.com/vi/XhCQVSUFkD0/hqdefault.jpg)](https://ytembed.macosxjs.com/?MlVsNmUzTW5mT2s)
 
+[![The Mummy](https://img.youtube.com/vi/ClTac-AGnGc/maxresdefault.jpg)](https://ytembed.macosxjs.com/?Q2xUYWMtQUduR2M)
 
 ## Reference Links
 [https://archive.org/details/tomb_raider_1996](https://archive.org/details/tomb_raider_1996)
