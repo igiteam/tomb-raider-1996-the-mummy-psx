@@ -13,9 +13,8 @@ A total conversion project that rebuilds the structure of *The Mummy* (PSX) insi
 
 [![The Mummy PSX](https://img.youtube.com/vi/tbAxaf8dzZU/maxresdefault.jpg)](https://ytembed.macosxjs.com/?dGJBeGFmOGR6WlU)
 
-[![Tomb Raider 3DO early alpha using OpenLara](https://img.youtube.com/vi/Ykqkgn1MQvo/maxresdefault.jpg)](https://ytembed.macosxjs.com/?WWtxa2duMU1Rdm8)
+[![The Mummy (2000) Cutscenes](https://img.youtube.com/vi/2Ul6e3MnfOk/maxresdefault.jpg)](https://ytembed.macosxjs.com/?MlVsNmUzTW5mT2s)
 
-[![The Mummy (Video Game) PS1 Walkthrough # 1](https://img.youtube.com/vi/tbAxaf8dzZU/maxresdefault.jpg)](https://ytembed.macosxjs.com/?dGJBeGFmOGR6WlU)
 
 ## Reference Links
 [https://archive.org/details/tomb_raider_1996](https://archive.org/details/tomb_raider_1996)
