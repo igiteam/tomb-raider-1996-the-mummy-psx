@@ -24,9 +24,9 @@ A total conversion project that rebuilds the structure of *The Mummy* (PSX) insi
 
 [https://archive.org/details/the-mummy_pc-cdrom](https://archive.org/details/the-mummy_pc-cdrom)
 
-[![The Mummy]()](https://vimm.net/vault/53937)
+[![The Mummy](https://raw.githubusercontent.com/igiteam/tomb-raider-1996-the-mummy-psx/refs/heads/master/the-mummy-psx.png)](https://vimm.net/vault/53937)
 
-[![Tomb Raider 1996]()](https://archive.org/details/tomb_raider_1996)
+[![Tomb Raider 1996](https://raw.githubusercontent.com/igiteam/tomb-raider-1996-the-mummy-psx/refs/heads/master/Tomb_Raider_(1996).png)](https://archive.org/details/tomb_raider_1996)
 
 ---
 
