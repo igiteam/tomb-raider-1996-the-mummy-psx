@@ -9,7 +9,7 @@ A total conversion project that rebuilds the structure of *The Mummy* (PSX) insi
 [https://api.github.com/repos/igiteam/tomb-raider-1996-the-mummy-psx/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/tomb-raider-1996-the-mummy-psx/git/trees/main?recursive=1)
 
 ## Base of the gameplay
-[![Tomb Raider 1996 OpenLara](https://i.ytimg.com/vi/BltNSs9Vzdg/maxresdefault.jpg)](https://ytembed.macosxjs.com/?MEFIaXI1eTJEWjg)
+[![Tomb Raider 1996 OpenLara](https://i.ytimg.com/vi/Vhwj_fb5doo/maxresdefault.jpg)](https://ytembed.macosxjs.com/?MEFIaXI1eTJEWjg)
 
 [![The Mummy PSX](https://img.youtube.com/vi/tbAxaf8dzZU/maxresdefault.jpg)](https://ytembed.macosxjs.com/?dGJBeGFmOGR6WlU)
 
